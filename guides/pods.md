@@ -61,51 +61,51 @@ There are two ways you can help make your pod experience increasingly useful to 
 
 ## List of Formats
 
-[**Care Pod**](https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing) - A format based on Intentional Change Theory _\[click to expand\]_
+[**Care Pod**](https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing) - A format based on Intentional Change Theory
 
 * Personal-professional development centered around Intentional Change Theory \(ICT\), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this [Format’s documentation](https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing).
 
-[**Peer Incubator**](https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing) - Personal-professional development that is more project-oriented than the “Care Pod” format. _\[click to expand\]_
+[**Peer Incubator**](https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing) - Personal-professional development that is more project-oriented than the “Care Pod” format.
 
 * The documentation of [how the very first one evolved](https://drive.google.com/open?id=1Zr1R8g__xJNQhYKgnVJwCf9v0nDaaPn5K6o6MRy7XeA) can give a picture of how to bring a pod together and evolve your own Format along with some starter material, prompts, and agendas.
 * There are examples of [combining this Format with the exercises from Care Pod \(ICT\)](https://drive.google.com/open?id=1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs), and also a [super simple, reusable agenda](https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing) that is just a combination of the Project Kitchen & Share-and-tell Rituals \(see below\).
 * Find all the [documentation about this format here](https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing).
 
-**Free Format** - Less structured, build your own… _\[click to expand\]_
+**Free Format** - Less structured, build your own…
 
 * While a Shared intention and a few Principles or key protocols are recommended, some pods may want to lean into emergence and arrive with a barebones agenda or none at all. Whatever the case, you might like to use one or more of the Rituals below, or to plan and build a Format by remixing those presented above.
 
 ## List of Rituals
 
-**Project Kitchens** - A practical, project-oriented exercise. _\[click to expand\]_
+**Project Kitchens** - A practical, project-oriented exercise.
 
 * This exercise will help small groups build collective intelligence by giving mutual support to their projects; [see here](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/project_kitchen.html)
 
-**Case Clinic** - From Theory U _\[click to expand\]_
+**Case Clinic** - From Theory U
 
 * Similar to the Project Kitchen with some different nuances and perhaps a broader scope \(but each can be modified in length or content to suit your pod\). Case Clinic is best suited to groups with a stronger focus on personal-professional development; [see here](https://www.collaboratiohelvetica.ch/blog/2017/11/20/mmrb05mfc3nlnxfqw2r9pcq26ietjp).
 
-[**Peer Action Learning**](https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit#) - These sessions can be simply defined as ‘learning by… _\[click to expand\]_ sharing real challenges with others.’
+[**Peer Action Learning**](https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit#) - These sessions can be simply defined as ‘learning by sharing real challenges with others.’
 
-* These sessions can be simply defined as ‘learning by sharing real challenges with others.’ This process allows participants to address real and immediate challenges they face… [Learn to run Peer Action Learning \(click here\)](https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit#).
+* These sessions can be simply defined as ‘learning by sharing real challenges with others.’ This process allows participants to address real and immediate challenges they face… [Learn to run Peer Action Learning](https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit#).
 
-**Music and movement \(opening\)** - Connect with the body, tunefully, to get started _\[click to expand\]_
+**Music and movement \(opening\)** - Connect with the body, tunefully, to get started
 
 * One person chooses some music, hits play, and people 🎵 "do a little dance…" 🎵 for a few minutes to get present, allowing the group to better get started together.
 
-**Presence in silence \(opening\)** - Hold a moment of silence at the beginning of a call _\[click to expand\]_
+**Presence in silence \(opening\)** - Hold a moment of silence at the beginning of a call
 
 * Life can be hectic and participant may have rushed into the call with stress and other thoughts in mind. Keeping silent for a few minutes \(even just 1\) can help ground everyone into the moment and improve the capacity of immediacy of the participants.
 
-**Showing up with a treasure** - Join the meeting with a physical object... _\[click to expand\]_
+**Showing up with a treasure** - Join the meeting with a physical object
 
 * It could have intrinsic subjective value or be anything helping you illustrate a short story that is important to you. Presenting it during the opening of the call can yield multiple benefits, starting with remembering ourselves what it is we treasure in life, practising storytelling and giving an opportunity to other pod members to get to know you.
 
-**Share and tell** - Share stuff you’re proud of \(or fascinated with\) and dialogue _\[click to expand\]_
+**Share and tell** - Share stuff you’re proud of \(or fascinated with\) and dialogue
 
 * This is an invitation for folks to first and foremost share something they’ve produced or they’re proud of, and then \(if not that\) secondarily anything that’s inspired them, that fascinates them, or may support insights for \(members of\) the group or good dialogue.
 
-**Retrospective** - Reflecting, periodically, for continuous improvement _\[click to expand\]_
+**Retrospective** - Reflecting, periodically, for continuous improvement
 
 * [This simple Retro format](https://www.atlassian.com/team-playbook/plays/retrospective) covers the very basics. You can find a variety of options in this [directory of retro formats](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) \(including the [4 L’s](http://retrospectivewiki.org/index.php?title=Four_L%27s_Retrospective)\)
 
@@ -113,7 +113,7 @@ There are two ways you can help make your pod experience increasingly useful to 
 
 ### Rituals for initiating
 
-**3 conversations** - Three conversations for initiating a group _\[click to expand\]_
+**3 conversations** - Three conversations for initiating a group
 
 1. How do we want to interact together? What’s the intention – or the outcomes or experiences that are hoped for – of our meetings?
    * a. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group
@@ -123,7 +123,7 @@ There are two ways you can help make your pod experience increasingly useful to 
    * a. This is the culminating question of the previous two explorations, and also gives people a concrete sense of ownership and dedication to the plan you laid out
    * b. It’s helpful if the commitment question includes a proposal of a duration—at the end of which you’ll have a retrospective or group reflection—in addition to the intention and cadence
 
-**Survey of Interest** - Find alignment and participants _\[click to expand\]_
+**Survey of Interest** - Find alignment and participants
 
 * One way to easily gather the ideal mix of participants is to use a survey. This can also help a group to find or strengthen its shared intention or to choose rituals/ format. You can take advantage of [this template survey](http://tiny.cc/peerincubator) of interest which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes.
 
